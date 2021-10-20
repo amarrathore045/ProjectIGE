@@ -1,0 +1,23 @@
+
+Backend-Python
+Front end- HTML,CSS,JAVASCRIPT
+Web_Scraping- Sellenium
+ML- Gecko Driver
+
+Question- Why we are developing instagram Extension?
+Answer- With the increasing number of users of instagram, its difficult to manage and track all of their  activites over the site.
+We found that people want to manage their profiles but due to lack of tools they fail to track their whereabouts.
+We aim to provide our users a platform to get all the information about their profiles with ease. 
+Instagram ofen suggests the posts which is irralavent to us, based on this conclusion we aim to use Machine Learning which aim
+to provide only relavent content.
+The posts/feed will be based on the posts and contents which we like or had clicked on.
+
+Functionalities: 
+List of followers and following
+most interacted id
+least interacted id
+which type of content you prefer most/ intersested topics
+session time and warnings
+Suggessions based on our activities
+
+
